@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryapatel1234
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Asp.NET, C#,C,js
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects on websites, frontend, backend
 - 📫 How to reach me : patelarya1504@gmail.com
 - 😄 Pronouns: He/Him
 
